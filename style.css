@@ -1,0 +1,73 @@
+/* Additional custom styles */
+.shadow-card {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+.bg-error\/ {
+  background-color: rgba(239, 68, 68, 0.1);
+}
+
+.text-error {
+  color: rgb(220, 38, 38);
+}
+
+.bg-warning\/ {
+  background-color: rgba(245, 158, 11, 0.1);
+}
+
+.text-warning {
+  color: rgb(217, 119, 6);
+}
+
+.bg-success\/ {
+  background-color: rgba(16, 185, 129, 0.1);
+}
+
+.text-success {
+  color: rgb(5, 150, 105);
+}
+
+.bg-primary\/ {
+  background-color: rgba(37, 99, 235, 0.1);
+}
+
+.text-primary {
+  color: rgb(37, 99, 235);
+}
+
+/* For browsers that don't support the slash notation */
+.bg-error\/10 {
+  background-color: rgba(239, 68, 68, 0.1);
+}
+
+.bg-warning\/10 {
+  background-color: rgba(245, 158, 11, 0.1);
+}
+
+.bg-success\/10 {
+  background-color: rgba(16, 185, 129, 0.1);
+}
+
+.bg-primary\/10 {
+  background-color: rgba(37, 99, 235, 0.1);
+}
+
+.bg-white\/20 {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.bg-white\/30 {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.text-white\/80 {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.text-white\/60 {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.border-white\/10 {
+  border-color: rgba(255, 255, 255, 0.1);
+}
