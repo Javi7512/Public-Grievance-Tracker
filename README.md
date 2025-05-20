@@ -1,5 +1,6 @@
 🛠️ Public Grievance Tracker System
 Public Grievance Tracker is a web-based application built to streamline the process of lodging, tracking, and resolving public complaints. It serves as a digital bridge between citizens and government authorities, enabling transparent and efficient grievance redressal.
+![image](https://github.com/user-attachments/assets/7e732bb3-0a05-4891-ad58-4667e7b37c18)
 
 👥 Key Users:
 Citizens: Can register, log in, submit grievances, and track their complaint status.
